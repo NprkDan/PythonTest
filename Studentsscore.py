@@ -6,10 +6,10 @@ def main():
     """Main function to iterate through records and find the top score."""
     # List of dictionaries representing student records
     students = [
-        {"name": "Alice", "score": 88},
-        {"name": "Bob", "score": 95},
-        {"name": "Charlie", "score": 78},
-        {"name": "David", "score": 92}
+        {"name": "Alice", "score": 232},
+        {"name": "Bob", "score": 9523},
+        {"name": "Charlie", "score": 122278},
+        {"name": "David", "score": 912324}
     ]
 
     # Initialize variables to track the best student

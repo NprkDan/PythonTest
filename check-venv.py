@@ -1,4 +1,5 @@
-#script checking if virtual environment is active#
+# script checking if virtual environment is active#
+
 import sys
 
 if sys.prefix != sys.exec_prefix:
